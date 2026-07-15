@@ -1,0 +1,19 @@
+supplier_id,name,country,region,tier,primary_category,onboarding_date,contract_expiry_date,payment_terms_days,lead_time_days_contracted
+SUP-1001,Apex Components,China,APAC,strategic,Electrical Components,2023-07-16,2028-03-17,30,14
+SUP-1002,GlobalParts Inc,USA,North America,strategic,Electrical Components,2022-07-16,2028-03-01,45,10
+SUP-1003,Ironclad Fasteners,USA,North America,preferred,Industrial Fasteners,2021-07-16,2027-01-14,30,7
+SUP-1004,Pacific Bearing Co,Japan,APAC,strategic,Precision Bearings,2020-07-16,2026-11-30,45,18
+SUP-1005,HydraForce Supply,Germany,Europe,preferred,Hydraulic Fittings,2022-07-16,2027-02-02,60,21
+SUP-1006,SafeGuard Pro,USA,North America,preferred,Safety Equipment,2023-07-16,2027-03-18,30,5
+SUP-1007,Nanjing Electric,China,APAC,approved,Electrical Components,2024-07-15,2027-03-25,30,16
+SUP-1008,Midwest Fastener Dist,USA,North America,approved,Industrial Fasteners,2025-01-13,2027-12-19,30,5
+SUP-1009,Euro Bearings GmbH,Germany,Europe,approved,Precision Bearings,2023-07-16,2028-06-14,60,25
+SUP-1010,Delta Hydraulics,USA,North America,approved,Hydraulic Fittings,2024-07-15,2026-12-17,30,10
+SUP-1011,Shield Safety Corp,Canada,North America,approved,Safety Equipment,2025-01-13,2027-11-11,45,8
+SUP-1012,ShenZhen Precision,China,APAC,approved,Precision Bearings,2025-07-15,2027-11-07,30,20
+SUP-1013,TechBolt Industries,Taiwan,APAC,approved,Industrial Fasteners,2024-01-15,2028-06-14,30,12
+SUP-1014,Nordic Fluid Power,Sweden,Europe,approved,Hydraulic Fittings,2023-07-16,2028-02-04,60,28
+SUP-1015,Atlas Electrical,USA,North America,probationary,Electrical Components,2026-01-16,2028-04-06,30,8
+SUP-1016,Titan Fasteners Ltd,UK,Europe,approved,Industrial Fasteners,2024-07-15,2027-06-27,45,14
+SUP-1017,QuickConnect Hydro,USA,North America,probationary,Hydraulic Fittings,2025-10-18,2028-05-01,30,7
+SUP-1018,Fortress Safety Int,Australia,APAC,approved,Safety Equipment,2025-01-13,2026-10-24,30,15

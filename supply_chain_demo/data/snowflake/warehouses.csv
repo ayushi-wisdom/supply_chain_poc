@@ -1,0 +1,5 @@
+warehouse_id,name,city,state,region,type,capacity_sqft,is_active
+WH-EAST,Atlantic Distribution Center,Newark,NJ,Northeast,distribution_center,185000,True
+WH-WEST,Pacific Fulfillment Center,Fontana,CA,West,fulfillment_center,142000,True
+WH-CENTRAL,Heartland Hub,Indianapolis,IN,Midwest,distribution_center,168000,True
+WH-SOUTH,Gulf Coast Warehouse,Houston,TX,Southeast,raw_materials,95000,True

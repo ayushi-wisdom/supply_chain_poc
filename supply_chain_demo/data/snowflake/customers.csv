@@ -1,0 +1,61 @@
+customer_id,name,segment,industry,region,city,state,account_tier,onboarding_date
+CUST-0012,Meridian Industries,enterprise,Manufacturing,Northeast,Hartford,CT,platinum,2024-10-04
+CUST-0025,Cascade Power Systems,enterprise,Energy,West,Portland,OR,platinum,2020-01-09
+CUST-0038,Pinnacle Manufacturing,enterprise,Manufacturing,Midwest,Detroit,MI,platinum,2023-01-20
+CUST-0041,Redstone Engineering,enterprise,Construction,Southeast,Atlanta,GA,platinum,2022-03-25
+CUST-0056,Sterling Aerospace,enterprise,Aerospace,West,Tucson,AZ,platinum,2024-10-17
+CUST-0067,Horizon Mining Corp,enterprise,Mining,West,Reno,NV,gold,2022-10-02
+CUST-0073,Bridgeport Automation,enterprise,Manufacturing,Northeast,Boston,MA,gold,2021-03-03
+CUST-0089,Summit Construction Group,enterprise,Construction,Southeast,Charlotte,NC,gold,2024-04-09
+CUST-0102,Prairie Wind Energy,mid_market,Energy,Midwest,Omaha,NE,gold,2020-12-15
+CUST-0115,Ironworks Fabrication,mid_market,Manufacturing,Midwest,Cleveland,OH,gold,2026-01-03
+CUST-0128,Pacific Shipyard Services,mid_market,Marine,West,Long Beach,CA,gold,2023-02-03
+CUST-0134,Valley Agricultural Equip,mid_market,Agriculture,Midwest,Des Moines,IA,gold,2020-06-06
+CUST-0147,Coastal Defense Systems,mid_market,Defense,Southeast,Savannah,GA,gold,2024-01-16
+CUST-0155,Northern Pipeline Inc,mid_market,Oil & Gas,Midwest,Bismarck,ND,gold,2020-05-08
+CUST-0168,Lakeshore Utilities,mid_market,Utilities,Midwest,Milwaukee,WI,gold,2024-11-07
+CUST-0171,Tidewater Marine Repair,mid_market,Marine,Southeast,Norfolk,VA,gold,2022-09-12
+CUST-0183,Appalachian Resources,mid_market,Mining,Southeast,Charleston,WV,gold,2020-05-08
+CUST-0200,Elm City Machine Works,mid_market,Manufacturing,Northeast,New Haven,CT,silver,2023-10-25
+CUST-0215,Sunbelt Contractors,mid_market,Construction,Southeast,Tampa,FL,silver,2024-04-30
+CUST-0230,Great Lakes Steel Fab,mid_market,Manufacturing,Midwest,Gary,IN,silver,2021-11-07
+CUST-0245,Ridgeline Environmental,mid_market,Environmental,West,Denver,CO,silver,2024-03-26
+CUST-0260,Capital City Mechanical,smb,HVAC,Southeast,Richmond,VA,silver,2019-12-30
+CUST-0275,Desert Sun Electric,smb,Electrical,West,Phoenix,AZ,silver,2020-02-05
+CUST-0290,Heartland Grain Systems,smb,Agriculture,Midwest,Wichita,KS,silver,2026-01-14
+CUST-0305,New England Boatworks,smb,Marine,Northeast,Newport,RI,silver,2022-05-30
+CUST-0320,Ozark Manufacturing,smb,Manufacturing,Midwest,Springfield,MO,silver,2020-07-25
+CUST-0335,Lone Star Fabricators,smb,Manufacturing,Southeast,San Antonio,TX,silver,2025-10-29
+CUST-0350,Sierra Equipment Rental,smb,Construction,West,Sacramento,CA,silver,2024-10-15
+CUST-0365,Harbor Light Marine,smb,Marine,Northeast,Gloucester,MA,silver,2021-12-22
+CUST-0380,Keystone Industrial,smb,Manufacturing,Northeast,Allentown,PA,silver,2022-08-06
+CUST-0395,Bluegrass Mechanical,smb,HVAC,Southeast,Louisville,KY,silver,2023-05-12
+CUST-0410,Columbia River Works,smb,Manufacturing,West,Vancouver,WA,silver,2025-05-24
+CUST-0425,Magnolia Power Services,smb,Energy,Southeast,Jackson,MS,silver,2023-05-06
+CUST-0440,Prairie State Machining,smb,Manufacturing,Midwest,Peoria,IL,silver,2019-09-07
+CUST-0455,Timber Creek Logging,smb,Forestry,West,Eugene,OR,silver,2025-02-28
+CUST-0500,Bayou Welding Supply,smb,Welding,Southeast,Baton Rouge,LA,,2025-01-31
+CUST-0510,Crossroads Hardware Dist,smb,Retail,Midwest,Topeka,KS,,2020-08-05
+CUST-0520,Eagle Mountain Mining,smb,Mining,West,Boise,ID,,2025-04-08
+CUST-0530,Flathead Electric Coop,smb,Utilities,West,Kalispell,MT,,2020-01-27
+CUST-0540,Granite State Industrial,smb,Manufacturing,Northeast,Manchester,NH,,2024-08-19
+CUST-0550,High Plains Equipment,smb,Agriculture,Midwest,Dodge City,KS,,2024-08-09
+CUST-0560,Inland Empire Fabricators,smb,Manufacturing,West,Spokane,WA,,2020-09-18
+CUST-0570,Juniata Valley Machine,smb,Manufacturing,Northeast,Lewistown,PA,,2019-11-18
+CUST-0580,Kaskaskia River Works,smb,Manufacturing,Midwest,Carlyle,IL,,2024-03-11
+CUST-0590,Lehigh Valley Hydraulics,smb,Hydraulics,Northeast,Bethlehem,PA,,2023-01-27
+CUST-0600,Mesabi Range Equipment,smb,Mining,Midwest,Hibbing,MN,,2020-02-16
+CUST-0610,North Cascade Logging,smb,Forestry,West,Bellingham,WA,,2021-04-19
+CUST-0620,Ouachita Machine Shop,smb,Manufacturing,Southeast,Hot Springs,AR,,2023-09-02
+CUST-0630,Piedmont Tool & Die,smb,Manufacturing,Southeast,Greensboro,NC,,2019-12-31
+CUST-0640,Quabbin Reservoir Services,smb,Utilities,Northeast,Ware,MA,,2023-10-16
+CUST-0650,Rio Grande Contractors,smb,Construction,West,Albuquerque,NM,,2022-07-20
+CUST-0660,Scioto Valley Mechanical,smb,HVAC,Midwest,Chillicothe,OH,,2021-07-27
+CUST-0670,Thunder Bay Fabrication,smb,Manufacturing,Midwest,Duluth,MN,,2021-11-09
+CUST-0680,Upper Valley Electric,smb,Electrical,Northeast,White River Jct,VT,,2021-02-17
+CUST-0690,Verde Valley Equipment,smb,Agriculture,West,Cottonwood,AZ,,2020-03-29
+CUST-0700,Wabash River Industrial,smb,Manufacturing,Midwest,Terre Haute,IN,,2020-12-24
+CUST-0710,Yadkin Valley Supply,smb,Manufacturing,Southeast,Elkin,NC,,2024-09-08
+CUST-0720,Zuni Mountain Services,smb,Mining,West,Gallup,NM,,2023-04-07
+CUST-0730,Black Hills Maintenance,smb,Mining,Midwest,Rapid City,SD,,2023-07-11
+CUST-0740,Chesapeake Bay Marine,smb,Marine,Northeast,Annapolis,MD,,2025-04-29

@@ -1,0 +1,121 @@
+product_id,sku,name,category,subcategory,unit_cost,unit_price,abc_class,reorder_point,safety_stock_days,lead_time_days,weight_kg,is_active
+EC-1847,EC-1847,High-Voltage Relay Module,Electrical Components,Electrical Components,84.5,142.0,A,8.0,14,25,2.1,True
+EC-2291,EC-2291,Industrial Circuit Breaker 30A,Electrical Components,Electrical Components,67.2,112.0,A,6.5,14,8,1.8,True
+EC-3004,EC-3004,Brushless Motor Controller,Electrical Components,Electrical Components,125.0,209.0,A,12.0,14,5,3.2,True
+EC-3517,EC-3517,Power Distribution Block 600V,Electrical Components,Electrical Components,43.8,73.0,A,4.5,14,13,0.9,True
+EC-1102,EC-1102,Terminal Strip 12-Position,Electrical Components,Electrical Components,12.4,21.0,B,2.0,10,12,0.3,True
+EC-1205,EC-1205,DIN Rail Mounted Timer,Electrical Components,Electrical Components,28.6,48.0,B,3.5,10,12,0.5,True
+EC-1330,EC-1330,Panel Mount Indicator Light,Electrical Components,Electrical Components,8.9,15.0,B,1.5,10,9,0.2,True
+EC-1455,EC-1455,Miniature Relay 24VDC,Electrical Components,Electrical Components,15.7,26.0,B,2.5,10,8,0.3,True
+EC-1580,EC-1580,Wire Duct 2x2 6ft,Electrical Components,Electrical Components,22.3,37.0,B,4.0,10,22,1.2,True
+EC-1610,EC-1610,Push Button Switch IP67,Electrical Components,Electrical Components,11.5,19.0,B,1.8,10,7,0.2,True
+EC-1720,EC-1720,Cable Gland PG13.5,Electrical Components,Electrical Components,3.2,5.5,C,0.5,7,23,0.1,True
+EC-1835,EC-1835,Fuse Holder 30A,Electrical Components,Electrical Components,6.8,11.5,C,1.0,7,18,0.15,True
+EC-1940,EC-1940,Surge Protector DIN Rail,Electrical Components,Electrical Components,18.9,32.0,C,3.0,7,6,0.4,True
+EC-2050,EC-2050,Conduit Fitting 3/4in,Electrical Components,Electrical Components,2.1,3.5,C,0.3,7,5,0.05,True
+EC-2160,EC-2160,Wire Connector Assortment,Electrical Components,Electrical Components,7.4,12.5,C,1.2,7,7,0.2,True
+EC-2275,EC-2275,EMI Filter 10A,Electrical Components,Electrical Components,24.5,41.0,C,3.8,7,11,0.6,True
+EC-2380,EC-2380,Contactor 3-Pole 25A,Electrical Components,Electrical Components,52.3,87.0,C,7.5,7,12,1.4,True
+EC-2490,EC-2490,Transformer 120/24V 100VA,Electrical Components,Electrical Components,38.7,65.0,C,5.5,7,21,2.8,True
+EC-2595,EC-2595,Ground Bar Kit,Electrical Components,Electrical Components,9.6,16.0,C,1.5,7,24,0.3,True
+EC-2680,EC-2680,Phase Monitor Relay,Electrical Components,Electrical Components,45.2,75.0,C,6.8,7,5,0.7,True
+EC-2790,EC-2790,Disconnect Switch 60A,Electrical Components,Electrical Components,62.4,104.0,C,9.0,7,22,2.0,True
+EC-2885,EC-2885,Control Relay Socket,Electrical Components,Electrical Components,5.3,9.0,C,0.8,7,11,0.1,True
+EC-2970,EC-2970,LED Strip Light 24V 5m,Electrical Components,Electrical Components,16.8,28.0,C,2.5,7,25,0.4,True
+EC-3100,EC-3100,Motor Starter DOL 10HP,Electrical Components,Electrical Components,89.5,149.0,C,13.0,7,22,3.5,True
+PB-4010,PB-4010,Deep Groove Ball Bearing 6205,Precision Bearings,Precision Bearings,18.5,31.0,A,3.0,14,18,0.4,True
+PB-4125,PB-4125,Tapered Roller Bearing 30206,Precision Bearings,Precision Bearings,34.2,57.0,A,5.5,14,12,0.8,True
+PB-4230,PB-4230,Spherical Roller Bearing 22210,Precision Bearings,Precision Bearings,72.6,121.0,A,11.0,14,19,2.1,True
+PB-4340,PB-4340,Angular Contact Bearing 7206,Precision Bearings,Precision Bearings,28.9,48.0,B,4.5,10,23,0.6,True
+PB-4455,PB-4455,Needle Roller Bearing NK20/16,Precision Bearings,Precision Bearings,14.3,24.0,B,2.2,10,13,0.3,True
+PB-4560,PB-4560,Thrust Ball Bearing 51105,Precision Bearings,Precision Bearings,11.8,20.0,B,1.8,10,5,0.25,True
+PB-4675,PB-4675,Pillow Block Bearing UCP205,Precision Bearings,Precision Bearings,22.4,37.0,B,3.5,10,10,0.9,True
+PB-4780,PB-4780,Linear Ball Bearing LM20UU,Precision Bearings,Precision Bearings,9.5,16.0,B,1.5,10,18,0.2,True
+PB-4890,PB-4890,Flanged Bearing UCF206,Precision Bearings,Precision Bearings,26.7,45.0,B,4.2,10,15,1.0,True
+PB-4995,PB-4995,Self-Aligning Bearing 1205,Precision Bearings,Precision Bearings,19.8,33.0,B,3.1,10,13,0.5,True
+PB-5100,PB-5100,Cam Follower KR30,Precision Bearings,Precision Bearings,16.2,27.0,C,2.5,7,9,0.35,True
+PB-5215,PB-5215,Rod End Bearing SA10,Precision Bearings,Precision Bearings,8.7,14.5,C,1.3,7,11,0.2,True
+PB-5320,PB-5320,Insert Bearing UC205,Precision Bearings,Precision Bearings,13.6,23.0,C,2.1,7,15,0.4,True
+PB-5430,PB-5430,Slewing Ring Bearing 110x200,Precision Bearings,Precision Bearings,245.0,409.0,C,38.0,7,8,12.5,True
+PB-5540,PB-5540,Miniature Bearing 608ZZ,Precision Bearings,Precision Bearings,3.4,5.7,C,0.5,7,7,0.05,True
+PB-5650,PB-5650,Plain Bearing Bush 20x23x20,Precision Bearings,Precision Bearings,4.8,8.0,C,0.7,7,17,0.08,True
+PB-5760,PB-5760,Cross Roller Bearing RB3010,Precision Bearings,Precision Bearings,135.0,225.0,C,21.0,7,8,1.8,True
+PB-5870,PB-5870,Combined Bearing 4.054,Precision Bearings,Precision Bearings,42.3,71.0,C,6.5,7,16,1.2,True
+PB-5980,PB-5980,Track Roller LFR5201,Precision Bearings,Precision Bearings,15.9,26.5,C,2.4,7,16,0.3,True
+PB-6090,PB-6090,Bearing Housing SNL510,Precision Bearings,Precision Bearings,58.4,97.0,C,9.0,7,24,4.5,True
+PB-6195,PB-6195,Adapter Sleeve H2310,Precision Bearings,Precision Bearings,12.1,20.0,C,1.9,7,13,0.6,True
+PB-6280,PB-6280,Withdrawal Sleeve AH2310,Precision Bearings,Precision Bearings,14.5,24.0,C,2.2,7,6,0.7,True
+PB-6370,PB-6370,Bearing Lock Nut KM5,Precision Bearings,Precision Bearings,5.2,8.7,C,0.8,7,19,0.15,True
+PB-6460,PB-6460,Bearing Seal Kit 6205,Precision Bearings,Precision Bearings,3.9,6.5,C,0.6,7,22,0.04,True
+IF-7010,IF-7010,Hex Bolt M12x60 GR8.8 Box/50,Industrial Fasteners,Industrial Fasteners,32.5,54.0,A,5.0,14,8,2.8,True
+IF-7125,IF-7125,Socket Head Cap Screw M10x40 Box/100,Industrial Fasteners,Industrial Fasteners,28.4,47.0,A,4.4,14,17,2.2,True
+IF-7230,IF-7230,Structural Bolt A325 3/4x3 Box/25,Industrial Fasteners,Industrial Fasteners,45.6,76.0,A,7.0,14,7,3.5,True
+IF-7340,IF-7340,Stainless Hex Bolt M8x30 Box/100,Industrial Fasteners,Industrial Fasteners,38.2,64.0,B,5.9,10,22,1.8,True
+IF-7455,IF-7455,Carriage Bolt 3/8x4 Box/50,Industrial Fasteners,Industrial Fasteners,18.7,31.0,B,2.9,10,14,1.5,True
+IF-7560,IF-7560,Flange Bolt M10x25 Box/50,Industrial Fasteners,Industrial Fasteners,21.3,36.0,B,3.3,10,25,1.2,True
+IF-7675,IF-7675,U-Bolt 3/8x3x6,Industrial Fasteners,Industrial Fasteners,8.4,14.0,B,1.3,10,24,0.8,True
+IF-7780,IF-7780,Eye Bolt M12 Forged,Industrial Fasteners,Industrial Fasteners,12.6,21.0,B,1.9,10,16,0.6,True
+IF-7890,IF-7890,Anchor Bolt 5/8x12 Box/10,Industrial Fasteners,Industrial Fasteners,26.8,45.0,B,4.1,10,23,2.5,True
+IF-7995,IF-7995,Thread Rod M16x1000,Industrial Fasteners,Industrial Fasteners,14.5,24.0,B,2.2,10,11,1.8,True
+IF-8100,IF-8100,Hex Nut M12 GR8 Box/100,Industrial Fasteners,Industrial Fasteners,9.8,16.5,C,1.5,7,7,1.0,True
+IF-8215,IF-8215,Nylon Lock Nut M10 Box/100,Industrial Fasteners,Industrial Fasteners,11.2,19.0,C,1.7,7,6,0.8,True
+IF-8320,IF-8320,Flat Washer M12 Box/200,Industrial Fasteners,Industrial Fasteners,6.4,11.0,C,1.0,7,12,0.6,True
+IF-8430,IF-8430,Split Lock Washer 3/8 Box/200,Industrial Fasteners,Industrial Fasteners,4.8,8.0,C,0.7,7,14,0.4,True
+IF-8540,IF-8540,Rivet 3/16x1/2 Box/500,Industrial Fasteners,Industrial Fasteners,15.3,26.0,C,2.4,7,7,0.5,True
+IF-8650,IF-8650,Set Screw M8x12 Box/100,Industrial Fasteners,Industrial Fasteners,7.9,13.0,C,1.2,7,12,0.4,True
+IF-8760,IF-8760,Dowel Pin 6x30 Box/50,Industrial Fasteners,Industrial Fasteners,10.4,17.5,C,1.6,7,8,0.3,True
+IF-8870,IF-8870,Cotter Pin 3/32x1 Box/100,Industrial Fasteners,Industrial Fasteners,3.5,6.0,C,0.5,7,17,0.2,True
+IF-8980,IF-8980,Clevis Pin 8x40,Industrial Fasteners,Industrial Fasteners,5.6,9.5,C,0.9,7,13,0.15,True
+IF-9090,IF-9090,Hitch Pin 1/2x4,Industrial Fasteners,Industrial Fasteners,4.2,7.0,C,0.6,7,19,0.2,True
+IF-9195,IF-9195,Spring Pin 5x30 Box/50,Industrial Fasteners,Industrial Fasteners,8.1,13.5,C,1.2,7,25,0.25,True
+IF-9280,IF-9280,Stud Bolt M16x100,Industrial Fasteners,Industrial Fasteners,16.7,28.0,C,2.6,7,16,0.9,True
+IF-9370,IF-9370,Wing Nut M8 Box/50,Industrial Fasteners,Industrial Fasteners,5.9,10.0,C,0.9,7,10,0.3,True
+IF-9460,IF-9460,Coupling Nut M12x36,Industrial Fasteners,Industrial Fasteners,7.3,12.0,C,1.1,7,16,0.4,True
+HF-1010,HF-1010,Hydraulic Hose 1/2in x 10ft 3000PSI,Hydraulic Fittings,Hydraulic Fittings,48.6,81.0,A,7.5,14,16,2.8,True
+HF-1125,HF-1125,Quick Disconnect Coupling 1/2in,Hydraulic Fittings,Hydraulic Fittings,22.3,37.0,A,3.4,14,11,0.5,True
+HF-1230,HF-1230,Hydraulic Cylinder 3in Bore x 8in,Hydraulic Fittings,Hydraulic Fittings,285.0,475.0,A,44.0,14,13,8.5,True
+HF-1340,HF-1340,JIC Fitting 90° Elbow 1/2in,Hydraulic Fittings,Hydraulic Fittings,8.7,14.5,B,1.3,10,25,0.2,True
+HF-1455,HF-1455,O-Ring Face Seal Fitting 3/4in,Hydraulic Fittings,Hydraulic Fittings,14.2,24.0,B,2.2,10,7,0.3,True
+HF-1560,HF-1560,Hydraulic Filter Element 10 Micron,Hydraulic Fittings,Hydraulic Fittings,34.5,58.0,B,5.3,10,24,0.8,True
+HF-1675,HF-1675,Pressure Gauge 0-5000PSI,Hydraulic Fittings,Hydraulic Fittings,28.9,48.0,B,4.5,10,25,0.4,True
+HF-1780,HF-1780,Ball Valve 3/4in 5000PSI,Hydraulic Fittings,Hydraulic Fittings,42.1,70.0,B,6.5,10,10,1.2,True
+HF-1890,HF-1890,Hydraulic Pump Gear Type 11GPM,Hydraulic Fittings,Hydraulic Fittings,195.0,325.0,B,30.0,10,22,6.2,True
+HF-1995,HF-1995,Check Valve Inline 1/2in,Hydraulic Fittings,Hydraulic Fittings,18.6,31.0,B,2.9,10,12,0.3,True
+HF-2100,HF-2100,Tube Nut 3/8in Box/10,Hydraulic Fittings,Hydraulic Fittings,6.3,10.5,C,1.0,7,10,0.1,True
+HF-2215,HF-2215,Suction Strainer 1in 100 Mesh,Hydraulic Fittings,Hydraulic Fittings,24.7,41.0,C,3.8,7,19,0.6,True
+HF-2320,HF-2320,Hydraulic Seal Kit 3in Cyl,Hydraulic Fittings,Hydraulic Fittings,19.4,32.0,C,3.0,7,17,0.2,True
+HF-2430,HF-2430,Manifold Block 4-Station,Hydraulic Fittings,Hydraulic Fittings,68.5,114.0,C,10.5,7,13,3.4,True
+HF-2540,HF-2540,Accumulator 1 Quart 3000PSI,Hydraulic Fittings,Hydraulic Fittings,142.0,237.0,C,22.0,7,25,4.1,True
+HF-2650,HF-2650,Flow Control Valve 1/2in,Hydraulic Fittings,Hydraulic Fittings,36.8,61.0,C,5.7,7,22,0.8,True
+HF-2760,HF-2760,Directional Valve 4/3 Way,Hydraulic Fittings,Hydraulic Fittings,98.5,164.0,C,15.2,7,12,2.5,True
+HF-2870,HF-2870,Reservoir Tank 5 Gallon,Hydraulic Fittings,Hydraulic Fittings,75.3,126.0,C,11.6,7,15,8.0,True
+HF-2980,HF-2980,Hydraulic Hose Crimping Ferrule,Hydraulic Fittings,Hydraulic Fittings,2.8,4.7,C,0.4,7,6,0.05,True
+HF-3090,HF-3090,Test Port Coupling M14x1.5,Hydraulic Fittings,Hydraulic Fittings,7.5,12.5,C,1.2,7,12,0.1,True
+HF-3195,HF-3195,SAE Flange 1in Code 61,Hydraulic Fittings,Hydraulic Fittings,31.2,52.0,C,4.8,7,6,1.5,True
+HF-3280,HF-3280,Pipe Plug 1/2 NPT Box/25,Hydraulic Fittings,Hydraulic Fittings,4.6,7.7,C,0.7,7,15,0.08,True
+HF-3370,HF-3370,Swivel Joint 1/2in,Hydraulic Fittings,Hydraulic Fittings,26.4,44.0,C,4.1,7,17,0.6,True
+HF-3460,HF-3460,Hydraulic Oil ISO 46 5 Gal,Hydraulic Fittings,Hydraulic Fittings,52.0,87.0,C,8.0,7,13,18.5,True
+SE-1010,SE-1010,Hard Hat Type II Full Brim,Safety Equipment,Safety Equipment,32.4,54.0,A,5.0,14,7,0.5,True
+SE-1125,SE-1125,Safety Glasses Anti-Fog Z87.1,Safety Equipment,Safety Equipment,8.6,14.5,A,1.3,14,11,0.1,True
+SE-1230,SE-1230,Fall Protection Harness,Safety Equipment,Safety Equipment,125.0,209.0,A,19.3,14,23,1.8,True
+SE-1340,SE-1340,Nitrile Gloves XL Box/100,Safety Equipment,Safety Equipment,14.2,24.0,B,2.2,10,15,0.8,True
+SE-1455,SE-1455,Ear Plugs NRR32 Box/200,Safety Equipment,Safety Equipment,18.5,31.0,B,2.9,10,11,0.6,True
+SE-1560,SE-1560,Hi-Vis Safety Vest Class 2,Safety Equipment,Safety Equipment,11.3,19.0,B,1.7,10,25,0.3,True
+SE-1675,SE-1675,Respirator Half-Face P100,Safety Equipment,Safety Equipment,28.7,48.0,B,4.4,10,20,0.4,True
+SE-1780,SE-1780,Steel Toe Boot Cover,Safety Equipment,Safety Equipment,16.8,28.0,B,2.6,10,17,0.5,True
+SE-1890,SE-1890,First Aid Kit 50 Person,Safety Equipment,Safety Equipment,62.4,104.0,B,9.6,10,25,3.2,True
+SE-1995,SE-1995,Fire Extinguisher 10lb ABC,Safety Equipment,Safety Equipment,45.6,76.0,B,7.0,10,19,5.5,True
+SE-2100,SE-2100,Safety Cone 28in Reflective,Safety Equipment,Safety Equipment,9.4,16.0,C,1.5,7,9,1.8,True
+SE-2215,SE-2215,Caution Tape 1000ft Roll,Safety Equipment,Safety Equipment,6.8,11.5,C,1.0,7,13,0.9,True
+SE-2320,SE-2320,Lockout Tagout Station,Safety Equipment,Safety Equipment,85.0,142.0,C,13.1,7,9,2.5,True
+SE-2430,SE-2430,Spill Kit 20 Gallon,Safety Equipment,Safety Equipment,72.3,121.0,C,11.2,7,12,6.0,True
+SE-2540,SE-2540,Emergency Shower/Eyewash,Safety Equipment,Safety Equipment,320.0,533.0,C,49.4,7,22,15.0,True
+SE-2650,SE-2650,Gas Detector 4-Gas,Safety Equipment,Safety Equipment,195.0,325.0,C,30.1,7,22,0.5,True
+SE-2760,SE-2760,Welding Helmet Auto-Dark,Safety Equipment,Safety Equipment,68.5,114.0,C,10.6,7,13,0.8,True
+SE-2870,SE-2870,Safety Harness Lanyard 6ft,Safety Equipment,Safety Equipment,42.1,70.0,C,6.5,7,23,0.4,True
+SE-2980,SE-2980,Knee Pads Professional,Safety Equipment,Safety Equipment,24.3,41.0,C,3.8,7,18,0.5,True
+SE-3090,SE-3090,Face Shield Bracket + Visor,Safety Equipment,Safety Equipment,15.6,26.0,C,2.4,7,23,0.3,True
+SE-3195,SE-3195,Hearing Band NRR25,Safety Equipment,Safety Equipment,7.2,12.0,C,1.1,7,17,0.1,True
+SE-3280,SE-3280,Safety Sign Pack Assorted,Safety Equipment,Safety Equipment,34.5,58.0,C,5.3,7,16,1.2,True
+SE-3370,SE-3370,Chemical Splash Goggles,Safety Equipment,Safety Equipment,10.8,18.0,C,1.7,7,12,0.15,True
+SE-3460,SE-3460,Traffic Delineator Post 42in,Safety Equipment,Safety Equipment,28.9,48.0,C,4.5,7,9,3.5,True
